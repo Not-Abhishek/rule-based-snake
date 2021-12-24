@@ -3,9 +3,6 @@ This was done in the summer of 2016 by using A* search and some hand-engineered 
 
 Relevant file is in `rule_based_ai.py`
 
-**Watch it here**
-Here is a youtube video of it :) 
-https://www.youtube.com/watch?v=IJ-Cxsao040
 
 ## Convolutional neural net reinforcement learning AI
 Currently work in progress
